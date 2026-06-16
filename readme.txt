@@ -18,7 +18,5 @@ To fulfill the academic requirements, the project strictly enforces:
 * .NET Framework / .NET (WinForms)
 * LINQ
 
-## Screenshots
-
 ## License
 Distributed under the MIT License.
