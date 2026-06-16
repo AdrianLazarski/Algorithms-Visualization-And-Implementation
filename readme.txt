@@ -19,7 +19,6 @@ To fulfill the academic requirements, the project strictly enforces:
 * LINQ
 
 ## Screenshots
-*(Here, insert images of your working app, e.g., `![Dijkstra Algorithm](assets/dijkstra.png)`)*
 
 ## License
 Distributed under the MIT License.
